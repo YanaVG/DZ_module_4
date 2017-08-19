@@ -1,0 +1,59 @@
+body {
+     text-align: center;
+}
+
+div {
+    height: 580px;
+    width: 400px;
+    outline: 2px solid #000;
+    margin-top: 18px;
+    margin-bottom: 18px;
+   
+}
+
+.name_tablet {
+    color: #242424;
+    font-family: Tahoma;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.tablet {
+    text-align: center;
+}
+
+.payment {
+    font-family: Tahoma;
+    font-size: 22px;
+    text-align: center;
+    line-height: 22px;
+    padding-top: 13px;
+    padding-bottom: 11px;
+    color: #ffffff;
+    background-color: #8bc144;
+    width: 190px;
+    height: 32px;
+    box-shadow: -4px 3px 0px #888888;
+}
+
+.prise {
+    font-family: Tahoma;
+    font-size: 31px;
+    text-align: center;
+    line-height: 22px;
+}
+
+.buy {
+    font-family: Tahoma;
+    font-size: 28px;
+    text-align: center;
+    line-height: 26px;
+    color: #ffffff;
+    background-color: #ff0000;
+    height: 51px;
+    width: 228px;
+    box-shadow: 0px 3px 0px #850000;
+    text-shadow: 3px 3px 2px #850000;
+    margin-bottom: 6px;
+}
